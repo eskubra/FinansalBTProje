@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DuvarKagidim</string>
+
+    <string name="nav_home">Anasayfa</string>
+    <string name="nav_favourites">Favoriler</string>
+    <string name="nav_settings">Ayarlar</string>
+    <string name="string_not_signed_in">Lütfen giriş yapınız..</string>
+    <string name="logout">Çıkış</string>
+</resources>

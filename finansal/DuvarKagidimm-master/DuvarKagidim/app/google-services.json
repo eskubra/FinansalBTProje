@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "89423842809",
+    "firebase_url": "https://duvarkagidi-50f3e.firebaseio.com",
+    "project_id": "duvarkagidi-50f3e",
+    "storage_bucket": " "
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89423842809:android:dde10740c8980020",
+        "android_client_info": {
+          "package_name": "com.bestWallpapers.hamza.bestWallpaperss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89423842809-12s1bkakmv15k7369giu6e00beggv550.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hamza.BestWallpapers",
+            "certificate_hash": "ae082a3f2e9aacc86d3395d06721e48cc4b11989"
+          }
+        },
+        {
+          "client_id": "89423842809-vo9s9p8crof6mfimgpgp6ne1nqadbjge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTgEctXV_6D8EdiAAl5AFyR068o7LvfCk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89423842809-vo9s9p8crof6mfimgpgp6ne1nqadbjge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
